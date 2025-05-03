@@ -19,3 +19,6 @@
 [submodule "service-registry"]
 	path = service-registry
 	url = https://github.com/cs203-2024/smucode-service-registry
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/cs203-2024/smucode-frontend
