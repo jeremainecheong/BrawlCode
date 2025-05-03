@@ -4,9 +4,6 @@
 [submodule "tournament-service"]
 	path = tournament-service
 	url = https://github.com/cs203-2024/smucode-tournament-service
-[submodule "react-next-frontend"]
-	path = react-next-frontend
-	url = https://github.com/cs203-2024/smucode-frontend
 [submodule "notification-service"]
 	path = notification-service
 	url = https://github.com/cs203-2024/smucode-notification-service
