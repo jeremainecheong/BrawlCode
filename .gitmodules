@@ -1,0 +1,24 @@
+[submodule "deployment"]
+	path = deployment
+	url = https://github.com/cs203-2024/smucode-deployment
+[submodule "tournament-service"]
+	path = tournament-service
+	url = https://github.com/cs203-2024/smucode-tournament-service
+[submodule "react-next-frontend"]
+	path = react-next-frontend
+	url = https://github.com/cs203-2024/smucode-frontend
+[submodule "notification-service"]
+	path = notification-service
+	url = https://github.com/cs203-2024/smucode-notification-service
+[submodule "auth-service"]
+	path = auth-service
+	url = https://github.com/cs203-2024/smucode-auth-service
+[submodule "user-service"]
+	path = user-service
+	url = https://github.com/cs203-2024/smucode-user-service
+[submodule "api-gateway"]
+	path = api-gateway
+	url = https://github.com/cs203-2024/smucode-api-gateway
+[submodule "service-registry"]
+	path = service-registry
+	url = https://github.com/cs203-2024/smucode-service-registry
